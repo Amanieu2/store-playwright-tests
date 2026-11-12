@@ -1,13 +1,13 @@
 # Store Playwright Tests
 
-[![Playwright tests](https://github.com/YOUR_GITHUB_USERNAME/store-playwright-tests/actions/workflows/playwright.yml/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/store-playwright-tests/actions/workflows/playwright.yml)
-[![Report](https://img.shields.io/badge/Playwright-report-2EAD33)](https://YOUR_GITHUB_USERNAME.github.io/store-playwright-tests/)
+[![Playwright tests](https://github.com/Amanieu2/store-playwright-tests/actions/workflows/playwright.yml/badge.svg)](https://github.com/Amanieu2/store-playwright-tests/actions/workflows/playwright.yml)
+[![Report](https://img.shields.io/badge/Playwright-report-2EAD33)](https://Amanieu2.github.io/store-playwright-tests/)
 
 End-to-end UI and API test automation for an online store, built with **Playwright and TypeScript**.
 The suite runs in three browsers and in CI on every push and every night. After each run it publishes an HTML report
 with traces, screenshots and videos of failures.
 
-**Live report:** https://YOUR_GITHUB_USERNAME.github.io/store-playwright-tests/
+**Live report:** https://Amanieu2.github.io/store-playwright-tests/
 
 ## Coverage
 
